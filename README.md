@@ -7,6 +7,6 @@
 # apt install git 
 # git clone https://github.com/Aryanjan002/ARYAN_crackBangladesh
 # cd ARYAN_crackBangladesh
-# python2 Aryanhacker.py
+# python Aryanhacker.py
 
 # coded by ARYAN HACKER 
